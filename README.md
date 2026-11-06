@@ -16,3 +16,15 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/Treazure).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## Junkyard Grand Prix
+
+A complete two-round browser racing game. Run the scrapyard in Round 1 to scavenge an engine, chassis and wheels (higher star ratings are faster), then race five rivals in Round 2. Race placement pays cash and awards bonus seconds toward the next scrapyard run. Spend cash between rounds on one-run perks: a part scanner, lucky gloves, or running shoes.
+
+Open `index.html` directly, or serve the folder:
+
+```bash
+python3 -m http.server 3002
+```
+
+Controls: WASD / arrow keys, or the on-screen touch controls on phones and tablets. No build step is required; the page falls back to system fonts when offline.
